@@ -6,7 +6,7 @@
     "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
     "COSMOSDB_CONNECTION_STRING": "<COSMOSDB_CONNECTION_STRING>"
   },
-  "Host" : {
+  "Host": {
     "LocalHttpPort": 7071,
     "CORS": "http://localhost:3000",
     "CORSCredentials": true
