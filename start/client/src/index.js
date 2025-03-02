@@ -53,7 +53,7 @@ const connect = () => {
     });
 
     connection.start().then(() => {
-        console.log("SignalR connection established");
+        console.log("SignalR connection established :-)");
     });
 };
 
